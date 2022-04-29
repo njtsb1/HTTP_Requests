@@ -30,3 +30,6 @@ project.
 
 IDE
 Intellij idea API was used.
+
+[LICENSE](https://github.com/njtsb1/HTTP_Requests/blob/main/LICENSE "LICENSE")
+
