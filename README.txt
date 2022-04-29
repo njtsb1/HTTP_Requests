@@ -30,3 +30,5 @@ project.
 
 IDE
 Intellij idea API was used.
+
+[LICENSE](./LICENSE)
